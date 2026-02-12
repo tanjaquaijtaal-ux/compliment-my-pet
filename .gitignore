@@ -1,0 +1,34 @@
+# Temporary files
+*.tmp
+*.temp
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# Don't ignore the export zip files - we want those!
+!export/*.zip
+
+# Optional: Uncomment if you have large unoptimized images you want to exclude
+# screenshots/*.psd
+# screenshots/*-original.*
