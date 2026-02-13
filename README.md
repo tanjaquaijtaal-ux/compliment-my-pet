@@ -1,10 +1,10 @@
-# 🐶 Compliment My Pet
+# 🐶 Compliment My Pet 🐈
 
 > A feel‑good AI agent that is always happy to talk about your pet — and will happily boost your mood along the way.
 
 ---
 
-## 🚀 What is this?
+## 🚀 What is this? 🐣
 
 **Compliment My Pet** is an AI agent where people can:
 - Upload a photo of their pet **or**
@@ -15,11 +15,11 @@ And get an **enthusiastic, positive, judgment‑free conversation** in return.
 Anyone with pets knows the feeling:  
 nothing is more fun than talking about *your* animal — but not everyone around you is always as enthusiastic.
 
-This agent always is.
+This agent always is. It can even send you an e-mail on why your pet is the best. 💌
 
 ---
 
-## 💛 Why this exists
+## 💛 Why this exists 🐔
 
 This project is a **mood booster in agent form**.
 
@@ -30,6 +30,14 @@ After just a few minutes of chatting about your pet:
 
 There may not be a traditional enterprise business case —  
 but making people feel better **is** a valid one.
+
+---
+
+## ✨ Key takeaway
+
+AI doesn’t always have to be productive.
+
+Sometimes, it just needs to make people smile.
 
 ---
 
@@ -54,11 +62,16 @@ but making people feel better **is** a valid one.
 
 ## 📸 Screenshots
 
-> Screenshots will be added here to show the experience and conversation flow.
+<img width="2252" height="1327" alt="happyflow1" src="https://github.com/user-attachments/assets/9a9cce7e-b5a8-46db-bef2-53b75efccf15" />
+<img width="2250" height="1247" alt="happyflow2" src="https://github.com/user-attachments/assets/1368b923-ba6d-4409-ba94-4a36acfe8d7b" />
+<img width="2221" height="1550" alt="happyflow3" src="https://github.com/user-attachments/assets/5257ae68-2fbf-4036-8fbe-f6ea4b203351" />
+
+<img width="2322" height="871" alt="Happyflow-email" src="https://github.com/user-attachments/assets/f1e5e648-9e18-459b-8163-de0eeb78946e" />
+Reading this again (and again) makes me happy! Use this Agent to experience the same joy. 🥰
 
 ---
 
-## 🧪 Learnings & known limitations
+## 🧪 Learnings & known limitations 🐴
 
 ### Responsible AI triggers
 In some cases, uploading a photo may unexpectedly trigger **Responsible AI restrictions**.
@@ -81,12 +94,4 @@ Having never worked with Github before - please enjoy looking in my very first R
 
 - Built during a hackathon  
 - Intentionally simple and focused  
-- Optimized for **joy, not complexity**
-
----
-
-## ✨ Key takeaway
-
-AI doesn’t always have to be productive.
-
-Sometimes, it just needs to make people smile.
+- Optimized for **joy, not complexity** 🐹🐕🐇
