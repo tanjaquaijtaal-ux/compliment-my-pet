@@ -72,7 +72,7 @@ Reading this again (and again) makes me happy! Use this Agent to experience the 
 ---
 ## 🐇 How to get your own
 >Prerequisite: Ability to import a solution into Copilot Studio.
-1. Download .zip
+1. Download .zip: https://github.com/tanjaquaijtaal-ux/compliment-my-pet/blob/main/Complimentmypet_1_0_0_1.zip
 2. Import solution into Copilot Studio
 3. Re-establish connections to activate solution
 4. Done!
