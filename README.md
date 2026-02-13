@@ -70,6 +70,22 @@ Sometimes, it just needs to make people smile.
 Reading this again (and again) makes me happy! Use this Agent to experience the same joy. 🥰
 
 ---
+## 🐇 How to get your own
+>Prerequisite: Ability to import a solution into Copilot Studio.
+1. Download .zip
+2. Import solution into Copilot Studio
+3. Re-establish connections to activate solution
+4. Done!
+
+Screenshots for importing solution into Copilot Studio: 
+<div style="display: flex; gap: 16px;">
+  <img src="https://github.com/user-attachments/assets/fbf4d8af-b954-4933-93b4-b8b76eaf2e80" alt="importsolution1" width="48%" />
+  <img src="https://github.com/user-attachments/assets/5140df31-9605-49de-a2ad-997d20c314cc" alt="importsolution2" width="48%" />
+</div>
+
+Or if that does not work go here to easily build your own: https://github.com/tanjaquaijtaal-ux/compliment-my-pet/edit/main/manualcreation.md
+
+---
 
 ## 🧪 Learnings & known limitations 🐴
 
